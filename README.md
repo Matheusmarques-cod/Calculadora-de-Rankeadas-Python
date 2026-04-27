@@ -1,7 +1,6 @@
 # Calculadora de Rankeadas Python 
-Instruções para entrega
- # 2️⃣ Calculadora de partidas Rankeadas
-**O Que deve ser utilizado**
+# 2️⃣ Calculadora de partidas Rankeadas
+**utilizadoS:**
 
 - Variáveis
 - Operadores
@@ -11,8 +10,7 @@ Instruções para entrega
 
 ## Objetivo:
 
-Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
-depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
+Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois retorna o resultado para uma variável, com o saldo de Rankeadas sendo feito através do calculo (vitórias - derrotas)
 
 Se vitórias for menor do que 10 = Ferro
 Se vitórias for entre 11 e 20 = Bronze
@@ -24,5 +22,5 @@ Se vitórias for maior ou igual a 101 = Imortal
 
 ## Saída
 
-Ao final deve se exibir uma mensagem:
+Ao final é exibido uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
